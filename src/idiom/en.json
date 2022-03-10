@@ -1,0 +1,51 @@
+{
+  "title": "Photopea Opener V1.1 - Configuration",
+
+  "idiomLabel": "Language:",
+
+  "webBrowserlabel": "Web Browser:",
+
+  "changebotton": "Change:",
+
+  "webApplabel": "Open as Single Web Application",
+
+  "advncOption": "Advanced Options",
+
+  "localservlabel": "Local Server Location:",
+
+  "portlabel": "Server Port:",
+
+  "tooltip1": "in which Web Browser do you want to open Photopea",
+
+  "tooltip2": "when this option is checked, Photopea will open in an individual window of your browser, without tabs or the address bar",
+
+  "tooltip3": "The access of the local server depends on the address where it is executed, by default it starts in the user's folder",
+
+  "tooltip4": "by default it starts at port 8000",
+
+  "savelabel": "Save",
+
+  "cancellabel": "Cancel",
+
+  "quittitle": "Quit",
+
+  "quitMsg": "Do you want to save changes?",
+
+  "selectWB": "Select a Web Browser",
+
+  "exe": "executables",
+
+  "allfiles": "all files",
+
+  "dfPthTitle": "Default Path",
+
+  "dfPthMsg": "Use user's folder as defaul?",
+
+  "dfWBTitle": "default browser",
+
+  "dfWBMsg": "Use your default browser?",
+
+  "openPho": "Open Photopea",
+  "configTray": "Settings",
+  "exitTray": "Exit"
+}

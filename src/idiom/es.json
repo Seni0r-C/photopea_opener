@@ -1,0 +1,51 @@
+{
+  "title": "Photopea Opener V1.1 - Configuración",
+
+  "idiomLabel": "Idioma:",
+
+  "webBrowserlabel": "Navegador Web:",
+
+  "changebotton": "Cambiar",
+
+  "webApplabel": "Abrir como Aplicación Web individual",
+
+  "advncOption": "Opciones Avanzadas",
+
+  "localservlabel": "Ubicación del Servidor Local:",
+
+  "portlabel": "Puerto del Servidor:",
+
+  "tooltip1": "en que Buscador Web quiere abrir Photopea",
+
+  "tooltip2": "cuando esta opción está marcada, Photopea se abrirá en una venta individual de su buscador, sin pestañas ni la barra de direcciones",
+
+  "tooltip3": "El acceso del servidor local depende de la dirección en donde se ejecute, por defecto se inicia en la carpeta del usuario",
+
+  "tooltip4": "por defecto se inicia es el puerto 8000",
+
+  "savelabel": "Guardar",
+
+  "cancellabel": "Cancelar",
+
+  "quittitle": "Salir",
+
+  "quitMsg": "¿Quiéres Guardar Cambios?",
+
+  "selectWB": "Seleccione un Navegador Web",
+
+  "exe": "ejecutables",
+
+  "allfiles": "todos los archivos",
+
+  "dfPthTitle": "Ruta por defecto",
+
+  "dfPthMsg": "¿Usar carpeta del usuario por defecto?",
+
+  "dfWBTitle": "Navegador Predeterminado",
+
+  "dfWBMsg": "¿Usar navegador predeterminado?",
+
+  "openPho": "Abrir Photopea",
+  "configTray": "Configuración",
+  "exitTray": "Salir"
+}

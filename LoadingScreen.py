@@ -19,15 +19,16 @@ def ini():
     root.resizable(0, 0)
 
     # imagen
-    bg = tk.PhotoImage(file="src/LSPO.png")
+    bg = tk.PhotoImage(file="./src/LSPO.png")
     myLab = tk.Label(root, image=bg)
     myLab.place(x=0, y=0, relwidth=1, relheight=1)
 
     def cerrarVentana():
+
         root.destroy()
 
     # root.after(2000, cerrarVentana)
-    root.after(3000, cerrarVentana)
+    root.after(5000, cerrarVentana)
     root.mainloop()
 
 
