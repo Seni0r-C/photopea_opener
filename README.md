@@ -1,5 +1,5 @@
 
-![Logo](https://www.mediafire.com/convkey/a361/kedlyls3jpwtmmzzg.jpg)
+![Logo](https://raw.githubusercontent.com/Seni0r-C/photopea_opener/refs/heads/main/AdditionalThings/SplashScreen.webp)
 
 
 # Photopea Opener
